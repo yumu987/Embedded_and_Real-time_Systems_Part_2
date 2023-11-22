@@ -9,3 +9,15 @@ po21744@bristol.ac.uk Yumu Xie
 km21822@bristol.ac.uk Gytis Budrevicius
 
 fc23356@bristol.ac.uk Smita Yashwant Nangare
+
+Task 1 main contributor:
+
+Gytis, Hongbing (Brian)
+
+Task 1 contributor:
+
+Yumu
+
+Task 1 less contributor:
+
+Smita
