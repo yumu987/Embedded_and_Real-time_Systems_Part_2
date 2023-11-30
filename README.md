@@ -12,7 +12,7 @@ fc23356@bristol.ac.uk Smita Yashwant Nangare
 
 Task 1 main contributor:
 
-Gytis, Hongbing (Brian)
+Gytis, Hongbing
 
 Task 1 contributor:
 
